@@ -2,9 +2,6 @@
 
 
 
-<p align="center">No Momento estou apenas Estudando.</p>&nbsp;
-
-
 
 #### Main Stack:
 
